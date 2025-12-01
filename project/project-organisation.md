@@ -46,5 +46,4 @@ roles maintenant:
 
 * Summarize findings: what was done, why, results.
 * Prepare 3–5 slides with clear visualizations.
-
 test
