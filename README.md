@@ -1,4 +1,7 @@
 # ComputationalSocialSciences
+## Telecom Paris - Institut Polytechnique de Paris
+## Students: BELLAIS, Salomé; GONZALEZ DARDIK, Micaela; VEILLARD, Mathilde.
+### S1P2 2025-2026
 This repository hosts guided examples of data-driven analyses for the course Computational Social Sciences. Each notebook demonstrates how to explore, visualize, and interpret datasets to answer socially-relevant questions using modern Data Science techniques.
 
 Notebooks
