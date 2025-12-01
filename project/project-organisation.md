@@ -46,9 +46,3 @@ roles maintenant:
 
 * Summarize findings: what was done, why, results.
 * Prepare 3–5 slides with clear visualizations.
-
-💡 **Tip:** You can progress through Phase 4 while waiting for the last group member to join.
-
----
-
-If you want, I can also make an **even shorter “checklist version”** that fits in the repo README at the top so it’s super easy to follow day by day. Do you want me to do that?
