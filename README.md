@@ -27,4 +27,4 @@ Requirements
   - jupyterlab
  
 Data
-- Datasets are included in the data/ folder.
+- Datasets are included in the data folder of each session.
