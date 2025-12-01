@@ -5,6 +5,7 @@
 This repository hosts guided examples of data-driven analyses for the course Computational Social Sciences. Each notebook demonstrates how to explore, visualize, and interpret datasets to answer socially-relevant questions using modern Data Science techniques.
 
 Notebooks
+
 A. Session 1: DSA Content Moderation. Analysis of a subset of the Digital Services Act Transparency Database.
 Highlights:
 - Data cleaning and preparation
