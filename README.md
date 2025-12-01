@@ -1,4 +1,4 @@
-# ComputationalSocialSciences
+# Computational Social Sciences
 ## Telecom Paris - Institut Polytechnique de Paris
 ## Students: BELLAIS, Salomé; GONZALEZ DARDIK, Micaela; VEILLARD, Mathilde.
 ### S1P2 2025-2026
