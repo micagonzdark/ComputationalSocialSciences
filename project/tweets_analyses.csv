@@ -1,0 +1,6 @@
+comment_id,text,target_politician,gender,timestamp,reply_to,clean_text,text_length,sentiment,sentiment_score,vader_sentiment,genre,toxicite,est_toxique
+1,"I really support Marine Le Pen, she's amazing!",Marine Le Pen,F,2026-01-01 12:00:00,,support marine le pen she's amazing,6,0.6000000000000001,0.9998878240585327,0.7579,masculin,0.7579,False
+2,Jordan Bardella's policy ideas are terrible,Jordan Bardella,M,2026-01-01 12:05:00,1.0,jordan bardella's policy ideas terrible,5,-1.0,0.9996745586395264,-0.4767,neutre,-0.4767,True
+3,Marine Le Pen is strong but looks unfriendly,Marine Le Pen,F,2026-01-01 12:10:00,,marine le pen strong looks unfriendly,6,0.4333333333333333,0.9909448623657227,0.2023,masculin,0.2023,False
+4,Bardella seems competent but inexperienced,Jordan Bardella,M,2026-01-01 12:15:00,2.0,bardella competent inexperienced,3,0.2,0.9883008003234863,0.3182,neutre,0.3182,False
+5,"Le Pen is awful, can't stand her",Marine Le Pen,F,2026-01-01 12:20:00,,le pen awful can't stand,5,-1.0,0.9995823502540588,-0.4588,masculin,-0.4588,True
